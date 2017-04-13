@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Just Museum</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="title_top">Top Fragment</string>
+    <string-array name="museums">
+        <item>Hagia Sophia</item>
+        <item>Miniatürk</item>
+        <item>Dolmabahçe Palace</item>
+        <item>Panorama 1453</item>
+    </string-array>
+    <string-array name="histories">
+        <item>Conquest of Istanbul</item>
+        <item>Republic of Turkey</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Istanbul</item>
+        <item>Ankara</item>
+        <item>Edirne</item>
+        <item>Kayseri</item>
+        <item>Konya</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Museums</item>
+        <item>Histories</item>
+        <item>Cities</item>
+    </string-array>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="welcome_text">Recommended for you</string>
+    <string name="history_text">History of the day</string>
+    <string name="city_text">You can also visit</string>
+    <string name="search_result">Search Result</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
